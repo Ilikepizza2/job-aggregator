@@ -24,3 +24,20 @@ No nonsense customization for personal use case can be done by changing the `use
 ### Todo
 1. Add more pages
 2. Add chunking to take care of context length.
+
+## List of current companies tracked
+- Linkedin
+- Paypal
+- Uber
+- Google
+- Salesforce
+- Microsoft
+- Amazon
+- Nutanix
+- Palo Alto Networks
+- Mastercard
+- Expedia group
+- Meesho
+- Sprinklr
+- Airbnb
+- Grab
