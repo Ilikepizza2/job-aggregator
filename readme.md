@@ -41,3 +41,5 @@ No nonsense customization for personal use case can be done by changing the `use
 - Sprinklr
 - Airbnb
 - Grab
+- Adobe
+- Rubrik
